@@ -153,3 +153,6 @@ o = o + "sh run8.sh"
 outfile.write(o)
 outfile.close()
 os.system("sh run.sh")
+
+
+...
